@@ -7,7 +7,20 @@
 @import url(../blocks/header/__lang-link/header__lang-link.css);
 @import url(../blocks/header/__lang-link/_activ/header__lang-link_activ.css);
 @import url(../blocks/photo-grid/photo-grid.css);
-@import url(../blocks/photo-grid/__item/photo-grid__item.css);
+@import url(../blocks/card/__image/card__image.css);
+@import url(../blocks/card/__button/card__button.css);
+@import url(../blocks/card/__text/card__text.css);
+@import url(../blocks/card/__under-line/card__under-line.css);
+@import url(../blocks/card/card.css);
+@import url(../blocks/hart-button/_activ/hart-button_activ.css);
+@import url(../blocks/hart-button/hart-button.css);
+
+
+@import url(../blocks/popup/__close-btn/popup__close-btn.css);
+@import url(../blocks/popup/_opened/popup_opened.css);
+@import url(../blocks/popup/popup.css);
+
+
 @import url(../blocks/places/places.css);
 @import url(../blocks/place/place.css);
 @import url(../blocks/place/__image/place__image.css);
