@@ -1,0 +1,15 @@
+.header__menu {
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+@media (max-width: 375px) {
+    .header__menu {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        min-height: 150px;
+    }
+}
